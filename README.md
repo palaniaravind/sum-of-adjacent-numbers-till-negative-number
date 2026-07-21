@@ -1,0 +1,1 @@
+# sum-of-adjacent-numbers-till-negative-number
